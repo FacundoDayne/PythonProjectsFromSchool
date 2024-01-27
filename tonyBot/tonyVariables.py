@@ -1,0 +1,5 @@
+yes = ["yes", "yeah", "yep","indeed", "mhm", "that's right", "absolutely", "definitely", "of course", "sure thing", "without a doubt", "indeed", "affirmative"]
+no = ["no", "nah" ,"not really", "nope", "i don't think so", "probably not", "unlikely", "doubtful", "negative", "no way", "not at all", "nay"]
+survey = ["survey", "test"]
+signs = ["symptoms", "risk", "factors" , "signs"]
+what = ["what", "inquire", "covid", "covid-19", "coronavirus", "coronavirus 19", "covid 19", "ask"]
